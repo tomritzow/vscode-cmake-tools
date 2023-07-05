@@ -1,3 +1,4 @@
+
 {
     "type": "object",
     "description": "The presets specify the generator and the build directory, and optionally a list of variables and other arguments to pass to CMake.",
